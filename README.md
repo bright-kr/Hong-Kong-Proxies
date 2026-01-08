@@ -1,6 +1,6 @@
 # Bright Data의 Hong Kong プロキシ
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/locations/hk) 
+[![Promo](https://github.com/bright-kr/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/locations/hk) 
 
 ## 개요
 정밀한 타기팅, 타의 추종을 불허하는 안정성, 빠른 응답 속도를 제공하도록 설계된 Bright Data의 [Hong Kong プロキシ](https://brightdata.co.kr/locations/hk)로 매끄러운 スクレイピング을 경험해 보시기 바랍니다. Hong Kong에서 웹サイト를 スクレイピング하기 시작하고, 다시는 차단되지 마시기 바랍니다.
@@ -39,7 +39,7 @@
 - **3G/4G/5G モバイルプロキシ IPアドレス**
 - **24/7 글로벌 지원**
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/locations/hk) 
+[![Promo](https://github.com/bright-kr/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/locations/hk) 
 
 ## Bright Data의 Hong Kong プロキシ 시작하기
 1. **무료 체험 시작**: 신용카드가 필요하지 않습니다.
